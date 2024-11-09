@@ -35,8 +35,8 @@ const readMore = more.repeat(4001)
 global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '6285766450735'
+global.nomorown = '6285766450735'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
@@ -61,14 +61,14 @@ global.sfb = 'https://www.facebook.com/Nao.Tomori.UwU'
 global.snh = 'https://www.instagram.com/fatih_frdaus'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pdana = '0'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = '0'
 global.plinkaja = '-'
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
+global.ppulsa = '0'
+global.ppulsa2 = '0'
 global.psaweria = 'https://saweria.co/shirokamiryzen'
-global.bank1 = '109901209640'
+global.bank1 = '-'
 global.bank2 = '-'
 
 
