@@ -148,7 +148,7 @@ if (usePairingCode && !conn.authState.creds.registered) {
  let phoneNumber = ''
  do {
  phoneNumber = await question(chalk.blueBright('Input a Valid number start with region code. Example : 62xxx:\n'))
- } while (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v)))
+ } while (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v)));
  rl.close()
  phoneNumber = phoneNumber.replace(/\D/g, '')
  console.log(chalk.bgWhite(chalk.blue('Generating code...')))
